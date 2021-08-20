@@ -18,7 +18,8 @@ func Basic() {
 }
 
 func main() {
-	var unused int = 3301
+	var unused1 int = 3301
+	var unused2 int = 1337
 	Basic()
 	Crypto()
 }
